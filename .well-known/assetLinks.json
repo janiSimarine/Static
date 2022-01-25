@@ -1,0 +1,14 @@
+[
+    {
+      "relation": [
+        "delegate_permission/common.handle_all_urls"
+      ],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.net.simarine.simarineapp",
+        "sha256_cert_fingerprints": [
+          "B1:31:AD:10:0D:29:14:42:65:E1:99:A8:12:FF:F4:E8:42:09:E2:53:7D:E1:BF:42:1C:B4:DB:EF:7A:F1:95:55"
+        ]
+      }
+    }
+  ]
